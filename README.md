@@ -33,7 +33,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/DeepFake-Detection-System.git
+git clone https://github.com/zeeshan-hyderr/Ai_proj_DeepFake-DetectionPreventionSystem/tree/main
 
 Navigate to the project directory:
 
